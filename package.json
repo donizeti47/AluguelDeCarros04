@@ -1,0 +1,27 @@
+{
+  "name": "alugueldecarros04",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de carros - aplicativo backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donizeti47/AluguelDeCarros04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donizeti47/AluguelDeCarros04/issues"
+  },
+  "homepage": "https://github.com/donizeti47/AluguelDeCarros04#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "pg": "^8.13.3",
+    "sequelize": "^6.37.5"
+  }
+}
